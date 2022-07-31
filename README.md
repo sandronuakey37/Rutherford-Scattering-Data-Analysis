@@ -1,1 +1,1 @@
-Data anlaysis of Rutherford scattering experiment. Includes calculation of theoretical cross-section and derivation of experimental cross section from real values.
+Data anlaysis of Rutherford scattering experiment. Includes calculation of theoretical cross-section and derivation of experimental cross section from real values. Scattering cross-section is calculated at a constant beam energy at varying beam angles.
